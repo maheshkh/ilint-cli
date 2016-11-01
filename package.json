@@ -1,0 +1,22 @@
+{
+  "name": "ilint-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for creating csslint and eslint reports",
+  "main": "./lib/api.js",
+  "bin": {
+    "ilint": "./bin/ilint.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshkh/ilint-cli.git"
+  },
+  "author": "Mahesh Khatri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maheshkh/ilint-cli/issues"
+  },
+  "homepage": "https://github.com/maheshkh/ilint-cli#readme"
+}
